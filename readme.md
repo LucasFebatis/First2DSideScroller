@@ -2,6 +2,8 @@
 
 Projeto para "Brincar" com a Unreal Engine 4.27 (Já tem a 5 disponível) e conhecer as suas ferramentas
 
+![Preview do Game](./pocpreview.gif)
+
 ## Recursos
 
 Sprites e Tilesets obtidos em https://itch.io/
